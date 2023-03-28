@@ -6,6 +6,7 @@
     "build": "next build",
     "dev": "next dev",
     "start": "next start",
+    "ci test":"jest",
     "cypress": "cypress open",
     "cypress:headless": "cypress run"
   },
